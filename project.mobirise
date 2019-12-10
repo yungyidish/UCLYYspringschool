@@ -964,7 +964,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mendy-yy-700x466.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1066,7 +1066,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/yy-party-2000x1333.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1079,6 +1079,23 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "To mark the end of the school and our week together, we will meet for shalesshides on shabes, make havdule and throw a party together on motse shabes&nbsp;",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn more about past events at YUNG YiDiSH</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190525-193826-2000x1500.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "<br><br><br><br>Travel &amp; Accommodation&nbsp;",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "We cannot arrange travel to Tel Aviv, or accommodation for you. But we will soon post more information to help you with practicalities about your stay.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn more about past events at YUNG YiDiSH</a>"
               }
             ]
