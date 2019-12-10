@@ -1834,6 +1834,20 @@ body {
 .cid-rFmv5nosSP {
   background-image: url("../../../assets/images/yy-eve3-2000x1244.png");
 }
+.cid-rKfPBxpF0R {
+  background: #4f4943;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #4f4943, #353230);
+}
+.cid-rKfPBxpF0R .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rKfPBxpF0R .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rFrP5bw4ar {
   padding-top: 30px;
   padding-bottom: 0px;
