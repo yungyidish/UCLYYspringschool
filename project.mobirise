@@ -941,13 +941,13 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": true,
+            "slides__autoplay": false,
             "slides__autoplayInterval": "8000",
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/yy-daytime-3-readers-2000x1333.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/szendroi-kahn-2000x1501.png",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -956,11 +956,11 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "The YUNG YiDiSH <br>Library &amp; Cultural Centre",
+                "title": "<br><br><br><br><br><br><br><br><br>Prof Kriszta Eszter Szendroi &amp; Dr Lily Kahn",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "YUNG YiDiSH Tel Aviv is on the 5th floor of Tel Aviv's Central Bus Station. It houses over 50 thousand Yiddish books, manuscripts, LPs, and artefacts. It has a lively cultural life with over a hundred Yiddish-language events every year.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success-outline\" data-app-placeholder=\"Type Text\" href=\"http://www.yiddish.co.il\" data-toolbar=\"-mbrBtnMove\">read more about YUNG YiDiSH</a> "
+                "text": "Funded by the Arts and Humanties Research Council of the UK, the UCL research group on the grammar of Contemporary Hasidic Yiddish studies Hasidic Yiddish varieties all around the world. With our colleagues, Dr Zoë Belk, Dr Sonya Yampolskaya and our research assistants, we collect and analyse data from contemporary Hasidic speakers. Ours is the first large-scale attempt to document and study in depth the most widely-spoken contemporary variant of the language.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-success-outline\" data-app-placeholder=\"Type Text\" href=\"https://keszendroi.github.io/BAproject/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">read more about the UCL HASIDYID project</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mendy-yy-700x466.png",
@@ -993,7 +993,7 @@
                 "title": "<div><br></div><div><br></div><div><br></div><div>Learning activities</div><br><div><br></div>",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "The group will spend the mornings at YUNG YiDiSH Tel Aviv together, talking Yiddish at all times! You can either volunteer your time to help with uncatalogued new arrivals in the library or use this time to explore the collection in your individual study time. Cardamom coffee from Jaffa, tea, water and some light food will always be available, as will a native Hasidic speaker to chat with at all times.<br><br>In the afternoons, Mendy Cahan will teach three-hour formal classes on historical and contemporary varieties of Yiddish and contemporary Haredi Yiddish culture.&nbsp;",
+                "text": "The group will spend the mornings at YUNG YiDiSH Tel Aviv together, talking Yiddish at all times! You can either volunteer your time to help with uncatalogued new arrivals in the library or use this time to explore the collection in your individual study time. Cardamom coffee from Jaffa, tea, water and some light food will always be available, as will a native Hasidic speaker to chat with at all times.<br><br>In the afternoons, there will be three-hour formal classes on various topics, including Hasidism and contemporary Hasidic culture by Mendy Cahan, the grammar of Hasidic varieties of Yiddish by Kriszta Eszter Szendroi and Lily Kahn (UCL) and the women's perspective on Hasidism (tbc).",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More information on Visiting Israel</a>"
               },
               {
@@ -1066,7 +1066,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/yy-party-2000x1333.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1078,7 +1078,7 @@
                 "title": "<br><br><br><br>Party time<br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "To mark the end of the school and our week together, we will meet for shaleshides on shabes, make havdule and throw a party together on motse shabes&nbsp;",
+                "text": "To mark the end of the school and our week together, we will meet for shalesshides on shabes, make havdule and throw a party together on motse shabes&nbsp;",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn more about past events at YUNG YiDiSH</a>"
               }
             ]
